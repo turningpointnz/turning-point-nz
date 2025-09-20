@@ -7,15 +7,13 @@ layout: default
 
 ![Image]({{ site.baseurl }}/assets/images/charlie-kirk.jpg)
 
-
-
 Looking for Turning Point New Zealand?
 
 Watch this space
 
 Register your interest here
 
-
+{% include google_contact_form.html %}
 
 ---
 
