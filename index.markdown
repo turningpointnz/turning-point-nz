@@ -13,4 +13,4 @@ Watch this space
 
 Register your interest here
 
-{% include custom_form.html %}
+{% include google_contact_form.html %}
