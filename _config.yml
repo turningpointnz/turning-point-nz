@@ -27,6 +27,8 @@ url: "https://ross.knudsen.net.nz" # the base hostname & protocol for your site,
 twitter_username: jekyllrb
 github_username:  jekyll
 
+header_pages:
+
 # Build settings
 theme: minima
 plugins:
