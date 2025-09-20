@@ -5,6 +5,8 @@
 layout: default
 ---
 
+![Image]({{ site.baseurl }}/assets/images/charlie-kirk.jpg)
+
 Looking for Turning Point New Zealand?
 
 Watch this space
