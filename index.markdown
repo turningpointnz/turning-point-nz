@@ -13,7 +13,7 @@ Watch this space
 
 Register your interest here
 
-{% include google_contact_form.html %}
+{% include custom_form.html %}
 
 ---
 
