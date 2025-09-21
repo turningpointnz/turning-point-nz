@@ -401,3 +401,18 @@ Still all my song shall be
 Nearer, my God, to thee,  
 Nearer, my God, to thee,  
 Nearer to thee!  
+
+## Pie Jesu
+
+Pie Jesu, pie Jesu, pie Jesu, pie Jesu  
+Qui tollis peccata mundi  
+Dona eis requiem, dona eis requiem  
+Pie Jesu, pie Jesu, pie Jesu, pie Jesu  
+Qui tollis peccata mundi  
+Dona eis requiem, dona eis requiem  
+Agnus Dei, Agnus Dei, Agnus Dei, Agnus Dei  
+Qui tollis peccata mundi  
+Dona eis requiem, dona eis requiem  
+Sempiternam  
+Sempiternam  
+Requiem  
