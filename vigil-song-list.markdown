@@ -5,6 +5,8 @@
 layout: default
 ---
 
+> **NOTE** Turning Point New Zealand is temporarily hosted at this address.  The site will soon be moved to its permanent home at [tpnz.org.nz](tpnz.org.nz)
+
 # Songs for the Charlie Kirk Vigil New Zealand
 
 Use the QR code or URL to share this with others:
