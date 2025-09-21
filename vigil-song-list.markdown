@@ -7,6 +7,12 @@ layout: default
 
 # Songs for the Charlie Kirk Vigil New Zealand
 
+Use the QR code or URL to share this with others:
+
+[https://tinyurl.com/38w2kfhe](https://tinyurl.com/38w2kfhe)
+
+![QR Code]({{ site.baseurl }}/assets/images/QR-song-list.png)
+
 ## Amazing Grace
 
 Amazing grace! how sweet the sound,  
